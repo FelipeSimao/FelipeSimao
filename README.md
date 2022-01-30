@@ -14,9 +14,9 @@
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Felipe-Node" height="30" width="40" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg">
   <img align="center" alt="Felipe-stylecomponents" height="30" width="40" src="https://github.githubassets.com/images/icons/emoji/unicode/1f485.png">
+  <img align="center" alt="Felipe-Node" height="30" width="40" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg">
+  <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Felipe Simao" height="180" width="240"   src="https://anatomia-papel-e-caneta.com/wp-content/uploads/2019/06/programador.gif">
 </div>
   
