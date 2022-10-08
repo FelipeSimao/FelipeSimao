@@ -1,6 +1,6 @@
 ## i'am Felipe Simao
 
-> Estudante de React Native & Node.js
+> Desenvolvedor Web
 
  <div style="display: flex; justfy-content: space-around; " >
   <a href="https://github.com/FelipeSimao">
